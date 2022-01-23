@@ -13,12 +13,13 @@ https://fleek.co
 Go to http://localhost:3000 in your browser to see the application deployed successfully.
 
 # Fleek Build Settings
-Base directory: 'Not set'
-Build command: npm install && npm run build
-Publish directory:  build
+- Base directory: Not set
+- Build command: ### npm install && npm run build
+- Publish directory:  ### build
 
 # Specify Docker Image
-Docker Image name (e.g. node:lts) fleek/create-react-app:node-16
+Docker Image name (e.g. node:lts) 
+### fleek/create-react-app:node-16
 
 # Changes in .json
 This is to make sure the page will also work on the IPFS gateway for urls in /ipfs/HASH formatting.
