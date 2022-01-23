@@ -14,8 +14,8 @@ Go to http://localhost:3000 in your browser to see the application deployed succ
 
 # Fleek Build Settings
 - Base directory: Not set
-- Build command: ### npm install && npm run build
-- Publish directory:  ### build
+- Build command: npm install && npm run build
+- Publish directory: build
 
 # Specify Docker Image
 Docker Image name (e.g. node:lts) 
