@@ -1,10 +1,14 @@
 # Hosting a react-app on IFPS deplyed with Fleek
 This project was bootstrapped with [Create React App]
 
+# Hosting
+https://fleek.co
+
+
 # Creating a React Application
-### 'npx create-react-app my-app
-### 'cd my-app'
-### 'npm start'
+### `npx create-react-app my-app`
+### `cd my-app`
+### `npm start`
 
 Go to http://localhost:3000 in your browser to see the application.
 
